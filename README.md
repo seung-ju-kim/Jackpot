@@ -236,6 +236,12 @@ Data Analysis
 
 1.0.0
 
-## 7. FAQ
+## 7. 프로젝트에서 맡은 역할
 
-- 자주 받는 질문 정리
+- Landingpage MVP : Fullpage api 를 통해 main page 개발
+- CocktailBar MVP : 전체 칵테일 리스트와 칵테일 별 필터기능, 검색기능 추가, 좋아요 기능 추가(Pagination을 통한 무한스크롤 구현)
+- MUI 라이브러리를 통한 전체 디자인 구성
+
+## 8. 프로젝트 진행 중 어려웠던 점
+
+- 처음 써보는 라이브러리나 API를 사용할 때 사용법이 서툴러 적용하기 힘듦 => MUI, Fullpage, 무한스크롤 모두 Best Practice를 찾아보며 프로젝트에 적용시켰다.
