@@ -1,7 +1,6 @@
 import axios from "axios";
 
-const serverUrl =
-  "https://" + window.location.hostname + "/";
+const serverUrl = "http://" + window.location.hostname + "/";
 
 async function get(endpoint, params = "") {
   console.log(
