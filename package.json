@@ -1,5 +1,5 @@
 {
-  "name": "back",
+  "name": "jackpot",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -12,7 +12,8 @@
     "swagger-ui-express": "^4.3.0"
   },
   "scripts": {
-    "start": "nodemon index.js --exec babel-node"
+    "start": "nodemon index.js --exec babel-node",
+    "heroku-postbuild": "cd front && yarn install --only=dev && yarn install && yarn build"
   },
   "dependencies": {
     "axios": "^0.27.2",
