@@ -1,6 +1,6 @@
 # 🍸 저쪽 손님께서 보내신 겁니다.
 https://jackpot-cocktail.herokuapp.com
-
+> 배포 과정에서 생긴 로그인 오류 
 ### 칵린이들을 위한 칵테일 소개 및 추천 서비스
 
 <br>
